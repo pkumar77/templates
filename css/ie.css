@@ -1,0 +1,9 @@
+/* Remove Bottom Padding For IE6 */
+div.results-section h2 {
+	padding: 0 0 0px 17px;
+}
+
+div.util-nav-wrap {
+	width: 310px;
+}
+
