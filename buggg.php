@@ -1,3 +1,4 @@
+<!-- display bugggs form here-->
 <div id='bugggFormSection' name='bugggFormSection' style='width: 350px; height:300px; display:none; top: 20%; left: 20%; position:fixed; background-color:white; layer-background-color:#003366;padding: 1em;border-style: solid; overflow:hidden; z-index:99999;'>
 	<h3>Report a bug</h3>
 	<form id="bugggForm" name="bugggForm">
