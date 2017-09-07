@@ -1,3 +1,4 @@
+<!-- bugggs form -->
 <div class="darkenBackground" name="darkBackgroundLayer" id="darkBackgroundLayer" style="display:none"></div>
 <div id='bugggFormSection' name='bugggFormSection' style='width: 350px; height:330px; display:none; top: 20%; left: 20%; position:fixed; background-color:white; layer-background-color:#003366;padding: 1em;border-style: solid; overflow-hidden; z-index:99999;'>
 	<h3>Report an Issue</h3>
